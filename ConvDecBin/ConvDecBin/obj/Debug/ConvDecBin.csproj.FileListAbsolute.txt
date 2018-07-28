@@ -1,0 +1,7 @@
+C:\Users\Amador\source\repos\ConvDecBin\ConvDecBin\bin\Debug\ConvDecBin.exe.config
+C:\Users\Amador\source\repos\ConvDecBin\ConvDecBin\bin\Debug\ConvDecBin.exe
+C:\Users\Amador\source\repos\ConvDecBin\ConvDecBin\bin\Debug\ConvDecBin.pdb
+C:\Users\Amador\source\repos\ConvDecBin\ConvDecBin\obj\Debug\ConvDecBin.csprojAssemblyReference.cache
+C:\Users\Amador\source\repos\ConvDecBin\ConvDecBin\obj\Debug\ConvDecBin.csproj.CoreCompileInputs.cache
+C:\Users\Amador\source\repos\ConvDecBin\ConvDecBin\obj\Debug\ConvDecBin.exe
+C:\Users\Amador\source\repos\ConvDecBin\ConvDecBin\obj\Debug\ConvDecBin.pdb
